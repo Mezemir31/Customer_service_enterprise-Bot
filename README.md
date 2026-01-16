@@ -75,5 +75,5 @@ This project is a simulation and does not access real enterprise data and API's.
 ## Demonstration Video
 
 <a href="https://vimeo.com/manage/videos/1150610786" target="_blank" rel="noopener noreferrer">
-  Watch demo: https://vimeo.com/manage/videos/1150610786
+  Watch the demo video here: https://vimeo.com/manage/videos/1150610786
 </a>
